@@ -98,7 +98,6 @@
             <far>8</far>
           </clip>
         </camera>
-        <!-- https://github.com/mlherd/ros2_turtlebot3_waffle_intel_realsense -->
         <plugin name="intel_realsense_d430_depth_driver" filename="libgazebo_ros_camera.so">
           <ros>
             <namespace>d430</namespace>
